@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap-stylesheet.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/?elementor_library=%D8%A7%D9%84%D8%AD%D9%8F%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9</loc>
+    <lastmod>2026-09-18T11:46:21+00:00</lastmod>
+  </url>
+  <url>
+    <loc>/?elementor_library=default-kit</loc>
+    <lastmod>2026-09-18T12:13:21+00:00</lastmod>
+  </url>
+</urlset>

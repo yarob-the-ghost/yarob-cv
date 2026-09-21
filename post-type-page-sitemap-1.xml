@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap-stylesheet.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/sample-page/</loc>
+    <lastmod>2026-09-18T11:19:51+00:00</lastmod>
+  </url>
+  <url>
+    <loc>/</loc>
+    <lastmod>2026-09-20T13:00:11+00:00</lastmod>
+    <image:image>
+      <image:loc>/wp-content/uploads/2026/09/FB_IMG_1789734564692.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2026-09-20T12:59:45+00:00</lastmod>
+    <image:image>
+      <image:loc>/wp-content/uploads/2021/05/bg-04-free-img.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>/services/</loc>
+    <lastmod>2026-09-20T12:59:29+00:00</lastmod>
+    <image:image>
+      <image:loc>/wp-content/uploads/2026/09/bg-06-free-img.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>/portfolio/</loc>
+    <lastmod>2026-09-20T13:40:45+00:00</lastmod>
+    <image:image>
+      <image:loc>/wp-content/uploads/2021/05/bg-05-free-img.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>/wp-content/uploads/2026/09/1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>/wp-content/uploads/2026/09/2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>/wp-content/uploads/2026/09/3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>/wp-content/uploads/2026/09/4.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2026-09-20T13:48:58+00:00</lastmod>
+    <image:image>
+      <image:loc>/wp-content/uploads/2021/05/bg-04-free-img.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
